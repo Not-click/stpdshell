@@ -1,2 +1,4 @@
 # stpdshell
 Smth I made for my school project
+
+PLEASE DO NOT ACTUALLY USE THIS SHI UNLESS YOU WANT A STUPID EXPERIENCE
