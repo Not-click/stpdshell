@@ -45,7 +45,7 @@ except FileNotFoundError:
 #login json file
 
 print("""
-\033[92m Welcome to pyshell \033[0m
+\033[92m Welcome to stpdshell \033[0m
 """)
 print(" ")
 
