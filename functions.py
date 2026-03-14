@@ -2,7 +2,15 @@ import os
 import sys
 import time
 
+
 #All the commands
+colors = {
+    "green": "\033[92m",
+    "blue":  "\033[94m",
+    "red":   "\033[91m",
+    "reset": "\033[0m"
+}
+
 def add(a: float,b: float):
   return(a+b)
 
